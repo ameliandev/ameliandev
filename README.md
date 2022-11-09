@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working a personal Angular project<br>👯 I’m looking to collaborate on Terminal Dashboard<br>🌱 I’m currently learning Python
+🔭 I’m currently working a personal Angular project and a videogame for Neo Geo Pocket handheld<br>👯 I’m looking to collaborate on Terminal Dashboard<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
