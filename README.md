@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div>
-  <h1><span style="font-size:0.5em">Hola 👋. Me llamo</span><br/> <span style="font-size:2em">Adrián Melián</span><br/><span style="color: #23ce6b">Especialista en desarrollo Web</span><br/><br/>
+  <h1><span style="font-size:0.5em">Hola 👋. Me llamo</span><br/> <span style="font-size:2em">Adrián Melián</span><br/><span style="color: #23ce6b">Desarrollador en C# y Angular</span><br/><br/>
   <span>
       <p align="left">
     <a href="https://www.linkedin.com/in/adrianmelian/" target="_blank">
